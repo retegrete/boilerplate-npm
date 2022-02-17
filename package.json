@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "mario-ortuno",
+	"keywords": ["freecodecamp", "hey", "waffles"],
 	"description": "this is a test",
 	"dependencies": {
 		"express": "^4.14.0"
